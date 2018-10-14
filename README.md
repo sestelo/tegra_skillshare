@@ -1,2 +1,3 @@
 # tegra_skillshare
-Material for the TEGRA Skillshare plan 2018
+
+Material for Data Exploration seasson (TEGRA Skillshare plan 2018)
