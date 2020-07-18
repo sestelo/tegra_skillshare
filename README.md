@@ -1,5 +1,5 @@
 # tegra_skillshare
 
-Material for sessions (TEGRA Skillshare plan 2018):
+Material for sessions (TEGRA Cybersecurity Center SkillShare Plan 2018):
 * Data Exploration
 * Introduction to Machine Learning Techniques
